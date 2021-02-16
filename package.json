@@ -1,0 +1,23 @@
+{
+  "name": "kavini-internship.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "htmlhint": "^0.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaviniCN/kavini-internship.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaviniCN/kavini-internship.github.io/issues"
+  },
+  "homepage": "https://github.com/KaviniCN/kavini-internship.github.io#readme"
+}
